@@ -2,15 +2,15 @@
   "name": "汪汪机",
   "short_name": "汪汪机",
   "id": "wangwang.virtualphone",
-  "description": "网页虚拟手机界面，可自定义聊天气泡样式",
+  "description": "汪汪机iOS网页原型",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#F2F2F7",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "/icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
